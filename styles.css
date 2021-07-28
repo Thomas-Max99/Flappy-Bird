@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    text-align:center;
+    font-family: 'Press Start 2',sans-serif;
+    user-select: none;
+}
+header{
+    margin:0 auto;
+    width:431px;
+}
+h1{
+    background:url('https://i.ibb.co/4N7DjPs/flappy-bird-set.png ') 0% 340px;
+    padding:1.2rem 0;
+    margin:0;
+}
+.score_container{
+    display:flex;
+    justify-content:space-between;
+    padding:8px 6px;
+    background-color: #3b9547;
+}
